@@ -1,5 +1,5 @@
-<H3>ENTER YOUR NAME: ARCHANA K</H3>
-<H3>ENTER YOUR REGISTER NO:212222240011</H3>
+<H3>ENTER YOUR NAME: BOOBESH PM</H3>
+<H3>ENTER YOUR REGISTER NO:212222233001</H3>
 <H3>EX. NO.3</H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
@@ -36,8 +36,8 @@ Step 4 : Test for the XOR patterns.
 
 ## Program:
 ```
-Developed By: ARCHANA K
-Register Number: 212222240011
+Developed By: BOOBESH PM
+Register Number: 212222233001
 ```
 ```python
 import numpy as np
